@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=010816&height=250&section=header&text=MULUGETA%20HAILU&fontSize=70&animation=fadeIn&fontColor=00cfff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=010816&height=250&section=header&text=MULUGETA%20HAILU&fontSize=70&animation=fadeIn&fontColor=00cfff" width="100%" />
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 <br/>
 
 > [!IMPORTANT]
-> **Security-First Mindset:** I specialize in the intersection of **Full-Stack Development** and **Security Operations (SOC)**. My goal is to build resilient systems that are hardened against modern threats while delivering seamless user experiences.
+> **Production Mindset:** I specialize in the intersection of **Backend Architecture** and **Security Operations**. My goal is to build systems that are not just "working," but are hardened, observable, and scalable.
 
 <br/>
 
@@ -35,9 +35,9 @@
 
 ## ⚡ Technical Wins (Highlights)
 
-*   **NileGuard Engine**: Developed a comprehensive web vulnerability scanner capable of detecting XSS, SQLi, and misconfigurations with real-time port scanning.
-*   **Smart City Logistics**: Engineered a Fuel Queue & Traffic Management system for Gondar City, optimizing distribution and reducing urban congestion.
-*   **Production Hardening**: Implementing real-time threat detection and incident response playbooks as a SOC Analyst at INSA.
+*   **NileGuard Hardening**: Engineered a comprehensive vulnerability scanner for detecting XSS and SQL Injection with multi-step reconnaissance logic.
+*   **Smart City Systems**: Optimized fuel distribution for Gondar City using smart monitoring and real-time state locking to prevent congestion.
+*   **SOC Automation**: Developed response playbooks at INSA to identify and mitigate threats at scale.
 
 ---
 
@@ -48,16 +48,16 @@
     <td width="50%" valign="top">
       <h3 align="center">🏗️ Architecture & Dev</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,nodejs,react,nextjs,python,mongodb,mysql,docker,git,linux,bash&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,docker,git,linux,bash,mongodb,mysql,redis,ps&theme=dark" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🛡️ Security & Ops</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Security-SOC%20|%20Pentesting-0d1117?style=flat-square&logoColor=00cfff" /><br/>
-        <img src="https://img.shields.io/badge/Ops-Kali%20|%20Docker%20|%20Automation-0d1117?style=flat-square&logoColor=00cfff" /><br/>
-        <img src="https://img.shields.io/badge/Tools-BurpSuite%20|%20Metasploit-0d1117?style=flat-square&logoColor=00cfff" /><br/>
-        <img src="https://img.shields.io/badge/Monitoring-SIEM%20|%20Threat%20Intel-0d1117?style=flat-square&logoColor=00cfff" />
+        <img src="https://img.shields.io/badge/Ops-Kali%20|%20Docker%20|%20Suricata-0d1117?style=flat-square&logoColor=00cfff" /><br/>
+        <img src="https://img.shields.io/badge/Automation-CI/CD%20|%20GitHub%20Actions-0d1117?style=flat-square&logoColor=00cfff" /><br/>
+        <img src="https://img.shields.io/badge/Monitoring-SIEM%20|%20QRadar-0d1117?style=flat-square&logoColor=00cfff" />
       </p>
     </td>
   </tr>
@@ -69,9 +69,21 @@
 
 | Project | Key Tech | Innovation |
 | :--- | :--- | :--- |
-| **[NileGuard](https://nileguard.vercel.app/)** | `Node.js` `Python` | Integrated subdomain & directory enumeration with a custom animated cybersecurity dashboard. |
-| **[Gondar Smart Fuel](https://github.com/mullerITprofessional)** | `React` `Node.js` | Built a real-time queue management system to streamline fuel distribution across the city. |
-| **[Woldia Smart City](https://github.com/mullerITprofessional)** | `Full Stack` | Contributed to the digital infrastructure and system integration for smart urban services. |
+| **[NileGuard](https://nileguard.vercel.app/)** | `Python` `Node.js` | Built a dual-engine scanner with **real-time threat mapping** and animated security dashboards. |
+| **[Gondar Smart Fuel](https://github.com/mullerITprofessional)** | `Full Stack` | Optimized sign-recognition engines and fuel distribution logic for municipal infrastructure. |
+| **[Woldia Smart City](https://github.com/mullerITprofessional)** | `Automation` | Contributed to the digital backbone and system integration for Ethiopia's smart city initiatives. |
+
+---
+
+## 📊 Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mullerITprofessional&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00cfff&text_color=9ca3af&icon_color=00cfff&border_color=1f2937&hide_border=false" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullerITprofessional&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00cfff&text_color=9ca3af&icon_color=00cfff&border_color=1f2937&hide_border=false" height="180" />
+</div>
 
 ---
 
