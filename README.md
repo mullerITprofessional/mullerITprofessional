@@ -1,91 +1,101 @@
-<p align="center">
-  <img src="banner.png" alt="MULUGETA HAILU Banner" width="100%" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&size=45&lines=MULUGETA+HAILU" alt="Name Animation" />
-</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;SOC+Analyst+at+INSA;Building+Secure+Systems;Smart+City+Solutions" alt="Roles" />
-</h3>
-
----
-
-### 🔐 Short Bio
-I am a **Software Developer** and **Cybersecurity Analyst** currently working at **INSA** as a **SOC Analyst**, while also developing software solutions remotely.
-
-I have built multiple real-world systems including **NileGuard** (a web vulnerability scanner), smart city solutions, and scalable web applications focused on security, automation, and user experience.
-
----
-
-### 🚀 Experience
-**🔐 SOC Analyst — INSA**
-- Monitor, detect, and respond to security incidents.
-- Analyze threats and improve system security posture.
-
-**💻 Software Developer — Remote**
-- Design and build full-stack applications.
-- Focus on secure, scalable, and modern solutions.
-
----
-
-### 🧠 Projects
-**🔐 NileGuard — Web Vulnerability Scanner**
-- Detects XSS, SQL Injection, and security misconfigurations.
-- Includes port scanning, subdomain & directory enumeration.
-- Features an animated cybersecurity dashboard.
-
-**⛽ Gondar City Smart Fuel Queue & Traffic Management System**
-- Optimizes fuel distribution and reduces congestion.
-- Improves traffic flow using smart monitoring.
-
-**🏙️ Woldia City Smart City Project**
-- Contributed to digital infrastructure for smart city services.
-- Focused on automation and system integration.
-
-**🎮 Virtual Betting Game Platform**
-- Built a simulation-based betting system.
-- Includes game logic, user interaction, and backend processing.
-
-**⚽ Soccer Betting System**
-- Web-based platform for managing sports betting logic.
-- Handles user actions, odds, and results.
-
-**🎓 Asquala Student Management System**
-- Manages student records, attendance, and academic data.
-- Designed for scalability and ease of use.
-
----
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,react,nextjs,python,mongodb,mysql,docker,github,linux,kali,ps&perline=12" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Activity
 <div align="center">
-  <h2>🐍 Contribution Snake</h2>
-  <img src="https://raw.githubusercontent.com/mullerITprofessional/mullerITprofessional/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=010816&height=250&section=header&text=MULUGETA%20HAILU&fontSize=70&animation=fadeIn&fontColor=00cfff" width="100%" />
 </div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Software+Developer;SOC+Analyst+at+INSA;Security-First+Developer;Smart+City+Architect" alt="typing" />
+</div>
 
-### 📬 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/mullerITprofessional" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/mullerITprof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:mulug755@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00cfff" /></a>
+  <a href="https://linkedin.com/in/mullerITprofessional"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00cfff" /></a>
+  <a href="https://t.me/mullerITprofessional"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00cfff" /></a>
 </p>
-
----
 
 <p align="center">
   <i>"Code is poetry, but secure code is a masterpiece."</i>
 </p>
 
+---
 
+## 👤 Profile At A Glance
 
+| 📍 Location | 🛠️ Focus | 🤝 Philosophy | 📧 Contact |
+| :--- | :--- | :--- | :--- |
+| Addis Ababa, Ethiopia | Cybersecurity & Dev | Security-by-Design | mulug755@gmail.com |
+
+<br/>
+
+> [!IMPORTANT]
+> **Security-First Mindset:** I specialize in the intersection of **Full-Stack Development** and **Security Operations (SOC)**. My goal is to build resilient systems that are hardened against modern threats while delivering seamless user experiences.
+
+<br/>
+
+---
+
+## ⚡ Technical Wins (Highlights)
+
+*   **NileGuard Engine**: Developed a comprehensive web vulnerability scanner capable of detecting XSS, SQLi, and misconfigurations with real-time port scanning.
+*   **Smart City Logistics**: Engineered a Fuel Queue & Traffic Management system for Gondar City, optimizing distribution and reducing urban congestion.
+*   **Production Hardening**: Implementing real-time threat detection and incident response playbooks as a SOC Analyst at INSA.
+
+---
+
+## 🛠️ Tech Arsenal
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏗️ Architecture & Dev</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=js,nodejs,react,nextjs,python,mongodb,mysql,docker,git,linux,bash&theme=dark" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ Security & Ops</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Security-SOC%20|%20Pentesting-0d1117?style=flat-square&logoColor=00cfff" /><br/>
+        <img src="https://img.shields.io/badge/Ops-Kali%20|%20Docker%20|%20Automation-0d1117?style=flat-square&logoColor=00cfff" /><br/>
+        <img src="https://img.shields.io/badge/Tools-BurpSuite%20|%20Metasploit-0d1117?style=flat-square&logoColor=00cfff" /><br/>
+        <img src="https://img.shields.io/badge/Monitoring-SIEM%20|%20Threat%20Intel-0d1117?style=flat-square&logoColor=00cfff" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Engineering
+
+| Project | Key Tech | Innovation |
+| :--- | :--- | :--- |
+| **[NileGuard](https://github.com/mullerITprofessional/nileguard)** | `Node.js` `Python` | Integrated subdomain & directory enumeration with a custom animated cybersecurity dashboard. |
+| **[Gondar Smart Fuel](https://github.com/mullerITprofessional)** | `React` `Node.js` | Built a real-time queue management system to streamline fuel distribution across the city. |
+| **[Woldia Smart City](https://github.com/mullerITprofessional)** | `Full Stack` | Contributed to the digital infrastructure and system integration for smart urban services. |
+
+---
+
+## 📊 Stats & Snake
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mullerITprofessional&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00cfff&text_color=9ca3af&icon_color=00cfff&border_color=1f2937&hide_border=false" height="180" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mullerITprofessional/mullerITprofessional/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mullerITprofessional/mullerITprofessional/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mullerITprofessional/mullerITprofessional/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/mullerITprofessional"><img src="https://img.shields.io/badge/GitHub-00cfff?style=for-the-badge&logo=github&logoColor=0d1117" /></a>
+  <a href="https://linkedin.com/in/mullerITprofessional"><img src="https://img.shields.io/badge/LinkedIn-00cfff?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>
+  <a href="mailto:mulug755@gmail.com"><img src="https://img.shields.io/badge/Email-00cfff?style=for-the-badge&logo=gmail&logoColor=0d1117" /></a>
+  <a href="https://t.me/mullerITprofessional"><img src="https://img.shields.io/badge/Telegram-00cfff?style=for-the-badge&logo=telegram&logoColor=0d1117" /></a>
+</p>
