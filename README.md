@@ -75,12 +75,13 @@
 ## 📊 Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mullerITprofessional&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00cfff&text_color=9ca3af&icon_color=00cfff&border_color=1f2937&hide_border=false" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mullerITprofessional&theme=tokyonight&bg_color=0d1117&color=00cfff&line=00cfff&point=00cfff&area=true&hide_border=true" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullerITprofessional&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00cfff&text_color=9ca3af&icon_color=00cfff&border_color=1f2937&hide_border=false" height="180" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mullerITprofessional&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullerITprofessional&layout=compact&theme=tokyonight" height="150" />
+</p>
 
 ---
 
