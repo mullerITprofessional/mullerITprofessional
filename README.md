@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="MULUGETA HAILU Banner" width="100%" />
+  <img src="banner.png" alt="MULUGETA HAILU Banner" width="100%" height="200px" style="object-fit: cover;" />
 </p>
 
 # 👋 Hi, I'm MULUGETA Hailu (@mullerITprofessional)
@@ -13,7 +13,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mullerITprofessional&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mullerITprofessional&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ I have built multiple real-world systems including **NileGuard** (a web vulnerab
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullerITprofessional&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullerITprofessional&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <div align="center">
@@ -100,5 +100,6 @@ I have built multiple real-world systems including **NileGuard** (a web vulnerab
 <p align="center">
   <i>"Code is poetry, but secure code is a masterpiece."</i>
 </p>
+
 
 
