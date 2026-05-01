@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Muller Banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Muller (mullerITprofessional)
 
 <h1 align="center">
@@ -71,6 +75,7 @@ I have built multiple real-world systems including **NileGuard** (a web vulnerab
 </p>
 
 <div align="center">
+  <h2>🐍 Contribution Snake</h2>
   <img src="https://raw.githubusercontent.com/mullerITprofessional/mullerITprofessional/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
@@ -87,4 +92,5 @@ I have built multiple real-world systems including **NileGuard** (a web vulnerab
 <p align="center">
   <i>"Code is poetry, but secure code is a masterpiece."</i>
 </p>
+
 
