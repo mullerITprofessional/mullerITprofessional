@@ -50,12 +50,14 @@
       <p align="center">
         <strong>🔵 Blue Team (Defensive)</strong><br/>
         <img src="https://img.shields.io/badge/SIEM-Splunk%20|%20QRadar-00cfff?style=flat-square&logoColor=0d1117" /><br/>
-        <img src="https://img.shields.io/badge/XDR/EDR-Wazuh%20|%20Elastic-00cfff?style=flat-square&logoColor=0d1117" /><br/>
+        <img src="https://img.shields.io/badge/XDR/EDR-Wazuh%20|%20CrowdStrike-00cfff?style=flat-square&logoColor=0d1117" /><br/>
+        <img src="https://img.shields.io/badge/Analytic-Elastic%20|%20SentinelOne-00cfff?style=flat-square&logoColor=0d1117" /><br/>
         <img src="https://img.shields.io/badge/Monitoring-Suricata%20|%20pfSense-00cfff?style=flat-square&logoColor=0d1117" /><br/>
         <br/>
         <strong>🔴 Red Team (Offensive)</strong><br/>
         <img src="https://img.shields.io/badge/Testing-BurpSuite%20|%20Metasploit-ff4b4b?style=flat-square&logoColor=0d1117" /><br/>
-        <img src="https://img.shields.io/badge/Scanning-Nmap%20|%20Nessus-ff4b4b?style=flat-square&logoColor=0d1117" />
+        <img src="https://img.shields.io/badge/Network-Nmap%20|%20Wireshark-ff4b4b?style=flat-square&logoColor=0d1117" /><br/>
+        <img src="https://img.shields.io/badge/Exploit-SQLmap%20|%20Gobuster-ff4b4b?style=flat-square&logoColor=0d1117" />
       </p>
     </td>
   </tr>
@@ -76,6 +78,14 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mullerITprofessional&theme=tokyonight&bg_color=0d1117&color=00cfff&line=00cfff&point=00cfff&area=true&hide_border=true" width="100%" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mullerITprofessional/mullerITprofessional/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mullerITprofessional/mullerITprofessional/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/mullerITprofessional/mullerITprofessional/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <p align="center">
