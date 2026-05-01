@@ -7,13 +7,13 @@
 </div>
 
 <p align="center">
-  <a href="mailto:mulug755@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00cfff" /></a>
+  <a href="mailto:mulugetahailu617@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00cfff" /></a>
   <a href="https://linkedin.com/in/mullerITprofessional"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00cfff" /></a>
-  <a href="https://t.me/mullerITprofessional"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00cfff" /></a>
+  <a href="https://t.me/abbi_h"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00cfff" /></a>
 </p>
 
 <p align="center">
-  <i>"Code is poetry, but secure code is a masterpiece."</i>
+  <i>"Building resilient systems that see signals before they become incidents."</i>
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 | 📍 Location | 🛠️ Focus | 🤝 Philosophy | 📧 Contact |
 | :--- | :--- | :--- | :--- |
-| Addis Ababa, Ethiopia | Cybersecurity & Dev | Security-by-Design | mulug755@gmail.com |
+| Addis Ababa, Ethiopia | Cybersecurity & Dev | Security-by-Design | mulugetahailu617@gmail.com |
 
 <br/>
 
@@ -69,7 +69,7 @@
 
 | Project | Key Tech | Innovation |
 | :--- | :--- | :--- |
-| **[NileGuard](https://github.com/mullerITprofessional/nileguard)** | `Node.js` `Python` | Integrated subdomain & directory enumeration with a custom animated cybersecurity dashboard. |
+| **[NileGuard](https://nileguard.vercel.app/)** | `Node.js` `Python` | Integrated subdomain & directory enumeration with a custom animated cybersecurity dashboard. |
 | **[Gondar Smart Fuel](https://github.com/mullerITprofessional)** | `React` `Node.js` | Built a real-time queue management system to streamline fuel distribution across the city. |
 | **[Woldia Smart City](https://github.com/mullerITprofessional)** | `Full Stack` | Contributed to the digital infrastructure and system integration for smart urban services. |
 
@@ -96,6 +96,8 @@
 <p align="left">
   <a href="https://github.com/mullerITprofessional"><img src="https://img.shields.io/badge/GitHub-00cfff?style=for-the-badge&logo=github&logoColor=0d1117" /></a>
   <a href="https://linkedin.com/in/mullerITprofessional"><img src="https://img.shields.io/badge/LinkedIn-00cfff?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>
-  <a href="mailto:mulug755@gmail.com"><img src="https://img.shields.io/badge/Email-00cfff?style=for-the-badge&logo=gmail&logoColor=0d1117" /></a>
-  <a href="https://t.me/mullerITprofessional"><img src="https://img.shields.io/badge/Telegram-00cfff?style=for-the-badge&logo=telegram&logoColor=0d1117" /></a>
+  <a href="mailto:mulugetahailu617@gmail.com"><img src="https://img.shields.io/badge/Email-00cfff?style=for-the-badge&logo=gmail&logoColor=0d1117" /></a>
+  <a href="https://t.me/abbi_h"><img src="https://img.shields.io/badge/Telegram-00cfff?style=for-the-badge&logo=telegram&logoColor=0d1117" /></a>
+</p>
+ogo=telegram&logoColor=0d1117" /></a>
 </p>
