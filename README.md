@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="banner.png" alt="Muller Banner" width="100%" />
+  <img src="banner.png" alt="MULUGETA HAILU Banner" width="100%" />
 </p>
 
-# 👋 Hi, I'm Muller (mullerITprofessional)
+# 👋 Hi, I'm MULUGETA Hailu (@mullerITprofessional)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mullerITprofessional&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;SOC+Analyst+at+INSA;Building+Secure+Systems;Smart+City+Solutions" alt="Typing Animation" />
@@ -10,6 +14,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mullerITprofessional&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mullerITprofessional&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
