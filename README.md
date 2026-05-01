@@ -75,22 +75,6 @@
 
 ---
 
-## 📊 Stats & Snake
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mullerITprofessional&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00cfff&text_color=9ca3af&icon_color=00cfff&border_color=1f2937&hide_border=false" height="180" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mullerITprofessional/mullerITprofessional/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mullerITprofessional/mullerITprofessional/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mullerITprofessional/mullerITprofessional/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="left">
@@ -98,6 +82,4 @@
   <a href="https://linkedin.com/in/mullerITprofessional"><img src="https://img.shields.io/badge/LinkedIn-00cfff?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>
   <a href="mailto:mulugetahailu617@gmail.com"><img src="https://img.shields.io/badge/Email-00cfff?style=for-the-badge&logo=gmail&logoColor=0d1117" /></a>
   <a href="https://t.me/abbi_h"><img src="https://img.shields.io/badge/Telegram-00cfff?style=for-the-badge&logo=telegram&logoColor=0d1117" /></a>
-</p>
-ogo=telegram&logoColor=0d1117" /></a>
 </p>
