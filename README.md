@@ -1,24 +1,14 @@
 <p align="center">
-  <img src="banner.png" alt="MULUGETA HAILU Banner" width="100%" height="200px" style="object-fit: cover;" />
-</p>
-
-# 👋 Hi, I'm MULUGETA Hailu (@mullerITprofessional)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mullerITprofessional&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+  <img src="banner.png" alt="MULUGETA HAILU Banner" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;SOC+Analyst+at+INSA;Building+Secure+Systems;Smart+City+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&size=45&lines=MULUGETA+HAILU" alt="Name Animation" />
 </h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mullerITprofessional&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mullerITprofessional&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;SOC+Analyst+at+INSA;Building+Secure+Systems;Smart+City+Solutions" alt="Roles" />
+</h3>
 
 ---
 
@@ -78,10 +68,6 @@ I have built multiple real-world systems including **NileGuard** (a web vulnerab
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullerITprofessional&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
   <img src="https://raw.githubusercontent.com/mullerITprofessional/mullerITprofessional/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
@@ -91,8 +77,8 @@ I have built multiple real-world systems including **NileGuard** (a web vulnerab
 
 ### 📬 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/mullerITprofessional" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mullerITprofessional" height="30" width="40" /></a>
-<a href="https://twitter.com/mullerITprof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mullerITprof" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mullerITprofessional" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/mullerITprof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 
 ---
