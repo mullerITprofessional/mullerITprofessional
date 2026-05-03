@@ -29,6 +29,7 @@
 
 ## ⚡ Engineering Impact
 
+*   **🏙️ Woldia Smart City**: Engineered a comprehensive municipal governance system featuring digital maps, biometric police intelligence, and multi-channel citizen reporting (Water/Electric/Crime).
 *   **🛡️ NileGuard**: Built an advanced vulnerability scanner for detecting XSS and SQL Injection with multi-step reconnaissance logic.
 *   **🔐 AxumLock**: Developed a premium cybersecurity suite for unified identity protection and password management with multilingual (English/Amharic) support.
 *   **⛽ Gondar Smart City**: Optimized urban fuel logistics using smart monitoring and real-time state locking.
@@ -70,6 +71,7 @@
 
 | Project | Stack | Innovation |
 | :--- | :--- | :--- |
+| **[Woldia Smart City](https://github.com/mullerITprofessional)** | `React` `Node.js` `Telegram` | Digital municipality with biometric police systems and citizen reporting bots. |
 | **[AxumLock](https://axumlock.vercel.app/)** | `Node.js` `React` | Premium security suite with English and Amharic support. |
 | **[NileGuard](https://nileguard.vercel.app/)** | `Node.js` `Python` | Real-time threat mapping & automated scanning. |
 | **[Gondar Smart Fuel](https://github.com/mullerITprofessional)** | `React` `Node.js` | Intelligent queue management for municipal logistics. |
