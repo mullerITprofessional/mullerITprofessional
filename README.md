@@ -76,7 +76,7 @@
 | **[AxumLock](https://axumlock.vercel.app/)** | `Node.js` `React` | Premium security suite with English and Amharic support. |
 | **[NileGuard](https://nileguard.vercel.app/)** | `Node.js` `Python` | Real-time threat mapping & automated scanning. |
 | **[Gondar Smart Fuel](https://github.com/mullerITprofessional)** | `React` `Node.js` | Intelligent queue management for municipal logistics. |
-| **[PhishGuard AI](https://phish-guard-ai-ivory-delta.vercel.app/)** | `React` `Node.js` | AI-driven phishing detection with real-time domain analysis. |
+| **[PhishGuard AI](https://phish-guard-ai-ivory-delta.vercel.app/)** | `React` `Node.js` `Python` | AI-driven phishing detection with real-time domain analysis. |
 
 ---
 
