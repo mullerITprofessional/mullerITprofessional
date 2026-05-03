@@ -30,6 +30,7 @@
 ## ⚡ Engineering Impact
 
 *   **🛡️ NileGuard**: Built an advanced vulnerability scanner for detecting XSS and SQL Injection with multi-step reconnaissance logic.
+*   **🔐 AxumLock**: Developed a premium cybersecurity suite for unified identity protection and password management with multilingual (English/Amharic) support.
 *   **⛽ Gondar Smart City**: Optimized urban fuel logistics using smart monitoring and real-time state locking.
 *   **🔒 SOC Operations**: Engineering automated threat detection and incident response at INSA.
 
@@ -69,6 +70,7 @@
 
 | Project | Stack | Innovation |
 | :--- | :--- | :--- |
+| **[AxumLock](https://axumlock.vercel.app/)** | `Node.js` `React` | Premium security suite with English and Amharic support. |
 | **[NileGuard](https://nileguard.vercel.app/)** | `Node.js` `Python` | Real-time threat mapping & automated scanning. |
 | **[Gondar Smart Fuel](https://github.com/mullerITprofessional)** | `React` `Node.js` | Intelligent queue management for municipal logistics. |
 
