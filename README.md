@@ -33,6 +33,7 @@
 *   **🛡️ NileGuard**: Built an advanced vulnerability scanner for detecting XSS and SQL Injection with multi-step reconnaissance logic.
 *   **🔐 AxumLock**: Developed a premium cybersecurity suite for unified identity protection and password management with multilingual (English/Amharic) support.
 *   **⛽ Gondar Smart City**: Optimized urban fuel logistics using smart monitoring and real-time state locking.
+*   **🛡️ PhishGuard AI**: AI-driven defensive security tool for detecting phishing attempts and typosquatted domains with multilingual support.
 *   **🔒 SOC Operations**: Engineering automated threat detection and incident response at INSA.
 
 ---
@@ -75,6 +76,7 @@
 | **[AxumLock](https://axumlock.vercel.app/)** | `Node.js` `React` | Premium security suite with English and Amharic support. |
 | **[NileGuard](https://nileguard.vercel.app/)** | `Node.js` `Python` | Real-time threat mapping & automated scanning. |
 | **[Gondar Smart Fuel](https://github.com/mullerITprofessional)** | `React` `Node.js` | Intelligent queue management for municipal logistics. |
+| **[PhishGuard AI](https://phish-guard-ai-ivory-delta.vercel.app/)** | `React` `Node.js` | AI-driven phishing detection with real-time domain analysis. |
 
 ---
 
